@@ -15,6 +15,7 @@
           <tbody>
              <tr>
                 <td colspan="1">
+                    hola
                    <form class="well form-horizontal">
                       <fieldset>
                          <div class="form-group">
