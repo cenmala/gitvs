@@ -14,6 +14,7 @@
        <table class="table table-striped">
           <tbody>
              <tr>
+                 Hola bb, 
                 <td colspan="1">
                    <form class="well form-horizontal">
                       <fieldset>
